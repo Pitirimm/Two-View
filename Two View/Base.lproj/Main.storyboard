@@ -28,14 +28,14 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fXS-wq-YvH" secondAttribute="trailing" constant="20" id="40Y-LX-ej5"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="V3F-tA-Ut0" secondAttribute="bottom" constant="5" id="78y-eU-t7W"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="V3F-tA-Ut0" secondAttribute="trailing" constant="20" id="ENu-Re-WlS"/>
-                            <constraint firstItem="V3F-tA-Ut0" firstAttribute="top" secondItem="fXS-wq-YvH" secondAttribute="bottom" constant="21" id="Iqd-iQ-NHv"/>
+                            <constraint firstItem="V3F-tA-Ut0" firstAttribute="width" secondItem="fXS-wq-YvH" secondAttribute="width" id="47B-UL-9LN"/>
+                            <constraint firstItem="V3F-tA-Ut0" firstAttribute="height" secondItem="fXS-wq-YvH" secondAttribute="height" multiplier="1.10428" id="9gU-tb-BfG"/>
+                            <constraint firstItem="V3F-tA-Ut0" firstAttribute="top" secondItem="fXS-wq-YvH" secondAttribute="bottom" constant="21" id="B8z-bA-zQg"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fXS-wq-YvH" secondAttribute="trailing" constant="20" id="KOf-qV-kw0"/>
                             <constraint firstItem="fXS-wq-YvH" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="5" id="T9w-uW-Gi4"/>
-                            <constraint firstItem="V3F-tA-Ut0" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="gBx-1a-Cd5"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="V3F-tA-Ut0" secondAttribute="bottom" constant="5" id="f1Z-cY-gTS"/>
                             <constraint firstItem="fXS-wq-YvH" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="kLI-FL-NRf"/>
-                            <constraint firstItem="V3F-tA-Ut0" firstAttribute="height" secondItem="fXS-wq-YvH" secondAttribute="height" multiplier="1.10553" id="tgv-wo-T23"/>
+                            <constraint firstItem="V3F-tA-Ut0" firstAttribute="leading" secondItem="fXS-wq-YvH" secondAttribute="leading" id="pMJ-fS-fYW"/>
                         </constraints>
                     </view>
                 </viewController>
